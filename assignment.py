@@ -42,7 +42,7 @@ print("===^^^^____^^^^===")
 """
 Write the code that finds the remainder when 8 is divided by 3
 """
-remainder = 8/3
+remainder = 8%3
 print(remainder)
 
 print("===^^^^____^^^^===")
